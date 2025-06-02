@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-C# .NET Developer who has a dream to become the game developer on Unity
+.NET Developer/Fullstack Developer
 <!--
 **eretix5/eretix5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
